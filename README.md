@@ -1,8 +1,16 @@
-# React + Vite
+How to run my project!
+1. Open VS Code
+2. Run command 'npm install'
+3. Run Command 'npm i react-router-dom'
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am also using tailwindCSS so run command
 
-Currently, two official plugins are available:
+1. npm install -D tailwindcss postcss autoprefixer
+2. npx tailwindcss init -p
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After that
+
+1. run 'npm run dev'
+2. and press 'O' to open the webpage!
+
+   Thank you for your time!
